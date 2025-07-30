@@ -6,13 +6,21 @@ The complete code will be released after the acceptance.
 Please follow the below instructions to run the code.
 
 i) Dependencies:
+
 Python 3.7+
+
 PyTorch >= 1.7
+
 Torchvision
+
 Numpy
+
 Pandas
+
 Pillow
+
 (Optional but recommended) CUDA-enabled GPU for acceleration
 
 ii) To run the code:
+
 python INFOCOM2026_main.py
